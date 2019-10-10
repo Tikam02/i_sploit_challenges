@@ -1,0 +1,12 @@
+<<----- MESSAGE  BEGINS---->>
+
+
+Steganography is the practice of concealing messages within other non-secret text or data.
+The cover media may appear unremarkable at first glance and will require close investigation.
+
+
+EBG13 (ebgngr ol 13 cynprf) ercynprf n yrggre jvgu gur yrggre 13 yrggref nsgre vg va gur nycunorg. Vg unf orra qrfpevorq nf gur "Hfrarg rdhvinyrag cevagvat na nafjre gb n dhvm hcfvqr qbja" nf vg cebivqrf iveghnyyl ab pelcgbtencuvp frphevgl.Synt{EBGV13}
+
+<<----- MESSAGE ENDS----->>
+
+
